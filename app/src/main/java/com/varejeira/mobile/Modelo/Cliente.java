@@ -6,5 +6,4 @@ public class Cliente extends Usuario{
         super(nome, sexo, telefone, email, cpf);
     }
 
-
 }
